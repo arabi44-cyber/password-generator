@@ -7,20 +7,20 @@
 
 ### Steps
 
-    1. **Clone the Repository**:
+1. **Clone the Repository**:
 
-    ```bash
+```bash
     git clone https://github.com/yourusername/password-generator.git
     cd password-generator
-    ```
+```
 
-    2.**Verify Installation**:
+2. **Verify Installation**:
 
-    Run the script to ensure it’s installed correctly:
+Run the script to ensure it’s installed correctly:
 
-    ```bash
-        python src/passwdgen.py
-    ```
+```bash
+    python src/passwdgen.py
+```
 
 ### Troubleshooting
 
@@ -54,7 +54,7 @@ Generate a 12-character password with digits and special characters:
     python src/passwdgen.py -l 12 -d -s
 ```
 
-### Output
+#### Output
 
 The generated password will be displayed in the terminal.
 
