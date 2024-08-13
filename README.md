@@ -14,7 +14,7 @@ To run the password generator, ensure you have Python installed on your system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/password-generator.git
+git clone https://github.com/arabi44-cyber/password-generator.git
 
 # Navigate to the project directory
 cd password-generator
