@@ -15,6 +15,7 @@
    ```
 
 2.**Verify Installation**:
+
 Run the script to ensure it’s installed correctly:
 
 ```bash
