@@ -60,7 +60,3 @@ The project is organized into the following main directories:
 ### 2. Performance
 
 - **Goal**: Ongoing efforts will focus on optimizing performance and reducing execution time, especially for generating very long passwords or when using complex character sets.
-
-## Conclusion
-
-This document provides an overview of the architecture of the Password Generator project. For more detailed information, refer to the other documentation files or contact the maintainers via GitHub.
