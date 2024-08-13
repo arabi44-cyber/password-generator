@@ -61,4 +61,5 @@ The generated password will be displayed in the terminal. Each run of the script
 # Additional Notes
 
 -> Default Settings: If no options are provided, the script will generate a default password of 8 characters including letters and digits.
+
 -> Error Handling: If invalid options or arguments are provided, the script will display an error message and exit.
