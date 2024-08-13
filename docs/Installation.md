@@ -12,7 +12,10 @@
    ```bash
    git clone https://github.com/yourusername/password-generator.git
    cd password-generator
-
-
-    python src/passwdgen.py
    ```
+
+````
+2.**Verify Installation**:
+```bash
+    python src/passwdgen.py
+````
