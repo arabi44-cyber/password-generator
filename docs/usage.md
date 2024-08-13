@@ -18,21 +18,24 @@ You can customize the password generation process using various command-line opt
   - Description: Specify the length of the generated password.
   - Usage: -l <length>
   - Example: -l 12 generates a password with 12 characters.
-  - -d, --digits
 
-Description: Include digits in the password.
-Usage: -d
-Example: -d ensures that digits are included in the generated password.
--a, --alpha
+- -d, --digits
 
-Description: Include alphabetic characters in the password.
-Usage: -a
-Example: -a ensures that alphabetic characters (both uppercase and lowercase) are included.
--s, --special
+  - Description: Include digits in the password.
+  - Usage: -d
+  - Example: -d ensures that digits are included in the generated password.
 
-Description: Include special characters in the password.
-Usage: -s
-Example: -s includes characters like @, #, $, etc
+- -a, --alpha
+
+  - Description: Include alphabetic characters in the password.
+  - Usage: -a
+  - Example: -a ensures that alphabetic characters (both uppercase and lowercase) are included.
+
+- -s, --special
+
+  - Description: Include special characters in the password.
+  - Usage: -s
+  - Example: -s includes characters like @, #, $, etc
 
 ### Examples
 
