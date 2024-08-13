@@ -24,5 +24,6 @@ Run the script to ensure it’s installed correctly:
 
 ## Troubleshooting
 
-Issue: If you encounter any issues, check the error messages for hints.
-Solution: Refer to the FAQ or open an issue on GitHub if you need further assistance.
+-> Issue: If you encounter any issues, check the error messages for hints.
+
+-> Solution: Refer to the FAQ or open an issue on GitHub if you need further assistance.
