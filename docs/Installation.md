@@ -24,9 +24,8 @@
 
 ### Troubleshooting
 
--> Issue: If you encounter any issues, check the error messages for hints.
-
--> Solution: Refer to the FAQ or open an issue on GitHub if you need further assistance.
+- Issue: If you encounter any issues, check the error messages for hints.\*
+- Solution: Refer to the FAQ or open an issue on GitHub if you need further assistance.
 
 ## Usage
 
@@ -42,9 +41,9 @@ python src/passwdgen.py
 ### Command-Line Options
 
 - -l, --length: Specify the length of the password (e.g., -l 12).
-  -d, --digits: Include digits in the password (e.g., -d).
-  -a, --alpha: Include alphabetic characters (e.g., -a).
-  -s, --special: Include special characters (e.g., -s).
+- -d, --digits: Include digits in the password (e.g., -d).
+- -a, --alpha: Include alphabetic characters (e.g., -a).
+- -s, --special: Include special characters (e.g., -s).
 
 #### Example
 
