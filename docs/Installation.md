@@ -41,10 +41,10 @@ python src/passwdgen.py
 
 ### Command-Line Options
 
-    -l, --length: Specify the length of the password (e.g., -l 12).
-    -d, --digits: Include digits in the password (e.g., -d).
-    -a, --alpha: Include alphabetic characters (e.g., -a).
-    -s, --special: Include special characters (e.g., -s).
+- -l, --length: Specify the length of the password (e.g., -l 12).
+  -d, --digits: Include digits in the password (e.g., -d).
+  -a, --alpha: Include alphabetic characters (e.g., -a).
+  -s, --special: Include special characters (e.g., -s).
 
 #### Example
 
