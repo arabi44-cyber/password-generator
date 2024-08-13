@@ -24,7 +24,7 @@
 
 ### Troubleshooting
 
-- Issue: If you encounter any issues, check the error messages for hints.\*
+- Issue: If you encounter any issues, check the error messages for hints.\
 - Solution: Refer to the FAQ or open an issue on GitHub if you need further assistance.
 
 ## Usage
