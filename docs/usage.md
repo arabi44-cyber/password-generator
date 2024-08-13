@@ -34,7 +34,7 @@ You can customize the password generation process using various command-line opt
     Usage: -s
     Example: -s includes characters like @, #, $, etc.
 
-# Examples
+### Examples
 
 1.Generate a 12-character password with digits and special characters:
 
@@ -54,7 +54,7 @@ python src/passwdgen.py -l 16 -a
 python src/passwdgen.py -l 8 -d -a -s
 ```
 
-# Output
+### Output
 
 The generated password will be displayed in the terminal. Each run of the script will produce a new random password according to the specified options.
 
