@@ -36,19 +36,19 @@ You can customize the password generation process using various command-line opt
 
 ### Examples
 
-1.Generate a 12-character password with digits and special characters:
+1. Generate a 12-character password with digits and special characters:
 
 ```bash
 python src/passwdgen.py -l 12 -d -s
 ```
 
-2.Generate a 16-character password with only alphabetic characters:
+2. Generate a 16-character password with only alphabetic characters:
 
 ```bash
 python src/passwdgen.py -l 16 -a
 ```
 
-3.Generate an 8-character password with digits, alphabetic characters, and special characters:
+3. Generate an 8-character password with digits, alphabetic characters, and special characters:
 
 ```bash
 python src/passwdgen.py -l 8 -d -a -s
