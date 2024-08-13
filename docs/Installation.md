@@ -14,7 +14,8 @@
    cd password-generator
    ```
 
-## 2.**Verify Installation**:
+2.**Verify Installation**:
+Run the script to ensure it’s installed correctly:
 
 ```bash
     python src/passwdgen.py
