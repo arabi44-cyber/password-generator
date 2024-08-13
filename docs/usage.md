@@ -13,26 +13,26 @@ python src/passwdgen.py
 
 You can customize the password generation process using various command-line options:
 
-    -l, --length
+- -l, --length
 
-    Description: Specify the length of the generated password.
-    Usage: -l <length>
-    Example: -l 12 generates a password with 12 characters.
-    -d, --digits
+  - Description: Specify the length of the generated password.
+  - Usage: -l <length>
+  - Example: -l 12 generates a password with 12 characters.
+  - -d, --digits
 
-    Description: Include digits in the password.
-    Usage: -d
-    Example: -d ensures that digits are included in the generated password.
-    -a, --alpha
+Description: Include digits in the password.
+Usage: -d
+Example: -d ensures that digits are included in the generated password.
+-a, --alpha
 
-    Description: Include alphabetic characters in the password.
-    Usage: -a
-    Example: -a ensures that alphabetic characters (both uppercase and lowercase) are included.
-    -s, --special
+Description: Include alphabetic characters in the password.
+Usage: -a
+Example: -a ensures that alphabetic characters (both uppercase and lowercase) are included.
+-s, --special
 
-    Description: Include special characters in the password.
-    Usage: -s
-    Example: -s includes characters like @, #, $, etc.
+Description: Include special characters in the password.
+Usage: -s
+Example: -s includes characters like @, #, $, etc
 
 ### Examples
 
@@ -60,6 +60,6 @@ The generated password will be displayed in the terminal. Each run of the script
 
 # Additional Notes
 
--> Default Settings: If no options are provided, the script will generate a default password of 8 characters including letters and digits.
+- Default Settings: If no options are provided, the script will generate a default password of 8 characters including letters and digits.
 
--> Error Handling: If invalid options or arguments are provided, the script will display an error message and exit.
+* Error Handling: If invalid options or arguments are provided, the script will display an error message and exit.
